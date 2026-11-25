@@ -1,0 +1,26 @@
+[project]
+name = "mesh-studio-api"
+version = "0.1.0"
+description = "Mesh Studio API: parametric toolpath generation on FullControl (Phase 0 spike)"
+requires-python = ">=3.10"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.30",
+  "pydantic>=2.7",
+  "numpy>=1.26",
+  "httpx>=0.27",
+  "pytest>=8",
+  "fullcontrol",
+]
+
+[tool.uv.sources]
+# Phase 0: the dependency is the local clone of FullControl, pinned by the
+# repository checkout itself (record the upstream commit in docs/architecture.md).
+fullcontrol = { path = "../../", editable = true }
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]

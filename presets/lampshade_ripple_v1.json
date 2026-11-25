@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "name": "Lampshade ripple specimen",
+  "generator": { "id": "ripple-mesh", "version": 1 },
+  "shape": {
+    "heightMm": 120,
+    "profile": [
+      { "heightFraction": 0.0, "radiusMm": 40 },
+      { "heightFraction": 0.5, "radiusMm": 55 },
+      { "heightFraction": 1.0, "radiusMm": 38 }
+    ]
+  },
+  "pattern": {
+    "ripplesPerTurn": 48,
+    "amplitudeMm": 0.8,
+    "phaseOffsetDeg": 0,
+    "phaseShiftPerTurnDeg": 0
+  },
+  "path": {
+    "risePerTurnMm": 0.4,
+    "startAngleDeg": 0,
+    "segmentsPerTurn": 96,
+    "segmentsPerRipple": 6
+  },
+  "extrusion": {
+    "widthMm": 0.45,
+    "heightMm": 0.2,
+    "filamentDiameterMm": 1.75,
+    "printSpeedMmS": 40,
+    "travelSpeedMmS": 120
+  },
+  "printerProfileId": null,
+  "notes": "Phase 0 specimen: modest turn count so full-resolution previews stay interactive. Values illustrate the schema; they are not validated print settings."
+}

@@ -1,0 +1,98 @@
+{
+  "source_repo": "https://github.com/bambulab/BambuStudio",
+  "source_commit": "bf68eece",
+  "fetched_for": "Mesh Studio P2S compatibility spike (Phase 0)",
+  "license": "AGPL-3.0 - verbatim unmodified copies; attribution required on redistribution",
+  "files": [
+    {
+      "path": "filament/Bambu PLA Basic @BBL P2S.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/filament/Bambu%20PLA%20Basic%20%40BBL%20P2S.json",
+      "sha256": "c727cb576d6ab788c2a313c945744fdaaadb3d6e2dc28723eb2f23772caa8610"
+    },
+    {
+      "path": "filament/Bambu PLA Basic @base.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/filament/Bambu%20PLA%20Basic%20%40base.json",
+      "sha256": "bb29da8f90e3d54313154195c3b5c733d1093b9ef40e84972148917e32af43e0"
+    },
+    {
+      "path": "filament/fdm_filament_common.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/filament/fdm_filament_common.json",
+      "sha256": "d2162eae7ac691e3754229ab7ea892815c9d57eb1c88ee4d725cb66cde47fb55"
+    },
+    {
+      "path": "filament/fdm_filament_pla.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/filament/fdm_filament_pla.json",
+      "sha256": "670d21ea6bdf1cd4b0a2bfddc743612ffd896cd6e5dbe767c25d2c4165c49a30"
+    },
+    {
+      "path": "machine/Bambu Lab P2S 0.4 nozzle template change_filament_gcode.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S%200.4%20nozzle%20template%20change_filament_gcode.json",
+      "sha256": "57e2a51742e2256dd54351d91022ea2a62a9e0658aa5a33b19ff7cf8e6f7fc2d"
+    },
+    {
+      "path": "machine/Bambu Lab P2S 0.4 nozzle template layer_change_gcode.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S%200.4%20nozzle%20template%20layer_change_gcode.json",
+      "sha256": "bb26b7d253f8cf7ebb344412057a75a6092ce68cba99dab9dd67982eabd5dbd5"
+    },
+    {
+      "path": "machine/Bambu Lab P2S 0.4 nozzle template machine_end_gcode.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S%200.4%20nozzle%20template%20machine_end_gcode.json",
+      "sha256": "c3ede70753efdb7036b06c44a727fb60a6d37ee5faf059a1b564b9d2de8d17af"
+    },
+    {
+      "path": "machine/Bambu Lab P2S 0.4 nozzle template machine_start_gcode.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S%200.4%20nozzle%20template%20machine_start_gcode.json",
+      "sha256": "755afd4f5d12b4b9635d9263d939973e0119eb4b56a26370805df9447cb52ccd"
+    },
+    {
+      "path": "machine/Bambu Lab P2S 0.4 nozzle template time_lapse_gcode.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S%200.4%20nozzle%20template%20time_lapse_gcode.json",
+      "sha256": "3400a2e765b3f2c6c44df21b37606ea494fd3654f5a1b1d588651548498fbf51"
+    },
+    {
+      "path": "machine/Bambu Lab P2S 0.4 nozzle template wrapping_detection_gcode.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S%200.4%20nozzle%20template%20wrapping_detection_gcode.json",
+      "sha256": "17e07e8f90529c42fb6ce57fc04f244690c0315cce4dcc8200bf94995b831bd9"
+    },
+    {
+      "path": "machine/Bambu Lab P2S 0.4 nozzle.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S%200.4%20nozzle.json",
+      "sha256": "68748e2a03abf9d5d6f49b1beecfd5b48d8a7e8b047e972855c650c3880978d4"
+    },
+    {
+      "path": "machine/Bambu Lab P2S.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/Bambu%20Lab%20P2S.json",
+      "sha256": "b11a1b628407c95d2264c1160e5e25cf18e6fb58364162fbf1ed1d5ca72c0e4b"
+    },
+    {
+      "path": "machine/fdm_bbl_3dp_001_common.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/fdm_bbl_3dp_001_common.json",
+      "sha256": "2ca207f457c1f9b3eb25a1801adb2eaa8ddc5620f5a8945abb51a3fcddab5e47"
+    },
+    {
+      "path": "machine/fdm_machine_common.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/machine/fdm_machine_common.json",
+      "sha256": "c9d0707351c0e5c08c80946d73ca1d310f535a17e1d332dc004d47ed6b8d9112"
+    },
+    {
+      "path": "process/0.20mm Standard @BBL P2S.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/process/0.20mm%20Standard%20%40BBL%20P2S.json",
+      "sha256": "16fdeae1caff76c4c226a837d2d5f6aea7376175a60fd6f394709c0153aad8ba"
+    },
+    {
+      "path": "process/fdm_process_common.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/process/fdm_process_common.json",
+      "sha256": "4617aea90e85ea15c87ad876542f8a2905c8095937911585e2741d7130b0586b"
+    },
+    {
+      "path": "process/fdm_process_single_0.20.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/process/fdm_process_single_0.20.json",
+      "sha256": "cdda8d56d67f62a0faa892cb6efc605ebb5c745bf742f6ead4daaeb6627c182a"
+    },
+    {
+      "path": "process/fdm_process_single_common.json",
+      "url": "https://raw.githubusercontent.com/bambulab/BambuStudio/bf68eece/resources/profiles/BBL/process/fdm_process_single_common.json",
+      "sha256": "05b38ac1318e465e817978b36da51754f928da0172738a20bb3a8d4a69eb4769"
+    }
+  ]
+}
